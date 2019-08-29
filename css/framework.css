@@ -6,6 +6,18 @@
     box-sizing: border-box;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+}
+
 /* =============================================== FONTS ============================================================ */
 @font-face {
     font-family: 'OpenSans Regular';
