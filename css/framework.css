@@ -34,6 +34,43 @@ ul, li {
     src: url("../Open_Sans/OpenSans-Bold.ttf");
 }
 
+body {
+    font-size: 16px;
+    font-family: 'OpenSans Regular';
+    color: rgb(53, 53, 53);
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'OpenSans Light';
+}
+
+h2 {
+    font-size: 36px;
+    font-family: 'OpenSans Light';
+}
+
+h3 {
+    font-size: 32px;
+    font-family: 'OpenSans Light';
+}
+
+h4 {
+    font-size: 28px;
+    font-family: 'OpenSans Regular';
+}
+
+h5 {
+    font-size: 24px;
+    font-family: 'OpenSans Regular';
+}
+
+h6 {
+    font-size: 20px;
+    font-family: 'OpenSans Regular';
+}
+
+
 /* =============================================== GRIDS ============================================================ */
 
 /* Display */
