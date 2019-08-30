@@ -14,7 +14,8 @@ a:hover {
     text-decoration: none;
 }
 
-ul, li {
+ul,
+li {
     list-style: none;
 }
 
@@ -36,40 +37,39 @@ ul, li {
 
 body {
     font-size: 16px;
-    font-family: 'OpenSans Regular';
+    font-family: 'OpenSans Regular', sans-serif;
     color: rgb(53, 53, 53);
 }
 
 h1 {
     font-size: 40px;
-    font-family: 'OpenSans Light';
+    font-family: 'OpenSans Light', sans-serif;
 }
 
 h2 {
     font-size: 36px;
-    font-family: 'OpenSans Light';
+    font-family: 'OpenSans Light', sans-serif;
 }
 
 h3 {
     font-size: 32px;
-    font-family: 'OpenSans Light';
+    font-family: 'OpenSans Light', sans-serif;
 }
 
 h4 {
     font-size: 28px;
-    font-family: 'OpenSans Regular';
+    font-family: 'OpenSans Regular', sans-serif;
 }
 
 h5 {
     font-size: 24px;
-    font-family: 'OpenSans Regular';
+    font-family: 'OpenSans Regular', sans-serif;
 }
 
 h6 {
     font-size: 20px;
-    font-family: 'OpenSans Regular';
+    font-family: 'OpenSans Regular', sans-serif;
 }
-
 
 /* =============================================== GRIDS ============================================================ */
 
@@ -84,14 +84,13 @@ h6 {
 }
 
 @media screen and (min-width: 1024px) {
-
     .container {
         width: 100%;
     }
 
     .row {
         width: 100%;
-        margin: 10px 0; 
+        margin: 10px 0;
     }
 
     /* columns */
@@ -213,9 +212,7 @@ h6 {
 }
 
 @media screen and (min-width: 720px) {
-
     /* columns */
-
     .col-md-1 {
         width: 7.5%;
         margin: 0 auto;
@@ -275,7 +272,7 @@ h6 {
         width: 90%;
         margin: 0 auto;
     }
-    
+
     /* offsets */
     .off-md-1 {
         width: 17.5%;
@@ -333,8 +330,7 @@ h6 {
     }
 }
 
-@media screen and (max-width: 719px){
-
+@media screen and (max-width: 719px) {
     /* columns */
     .col-sm-1 {
         width: 7.5%;
