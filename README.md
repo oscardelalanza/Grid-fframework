@@ -11,19 +11,29 @@ You can find the original description in [The Odin Project](https://www.theodinp
 - CSS3
 
 ## Live Demo
+
 [Live version](https://rawcdn.githack.com/bruna-genz/unsplash-clone/81f9bb9b837b4dd78dc701ec332c15a17b626d6f/index.html) of a clone from [Unsplash](https://unsplash.com/) homepage, which was built with the goal of testing this framework.
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-- open a new terminal and run the following command:
-- `git clone git@github.com:oscardelalanza/Grid-framework.git`
+> To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-- web browser
+
+- `Git`
 
 ### Setup
-- copy and paste the `css` folder with all his content into the `root` of your project
+
+To clone the project in your local environment do the following.
+
+- Open a new `terminal` window and navigate to the directory where the project will be stored.
+- Run the command `git clone git@github.com:oscardelalanza/Grid-framework.git`.
+- Run the command `cd Grid-framework` to enter the project directory.
+
+### Install
+
+- Copy and paste the `css` folder  and the `Open_Sans` folder with all his content into the `root` of your project.
+- Link the `framework.css` file to your `html files`.
 
 ## Authors
 
