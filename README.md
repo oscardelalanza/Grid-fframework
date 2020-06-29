@@ -30,10 +30,27 @@ To clone the project in your local environment do the following.
 - Run the command `git clone git@github.com:oscardelalanza/Grid-framework.git`.
 - Run the command `cd Grid-framework` to enter the project directory.
 
+### Usage
+
+Add the different `css classes` to your `html elements` as you need it. 
+
+- Use the `p` classes to generate `paddings`.
+- Use the `m` classes to generate `margins`.
+- Use the `col` classes to separate in `columns` the screen.
+- Use the `md` and `sm` to switch between the different screen breakpoints.
+
 ### Install
 
 - Copy and paste the `css` folder  and the `Open_Sans` folder with all his content into the `root` of your project.
 - Link the `framework.css` file to your `html files`.
+
+### Run tests
+
+- This project doesn't contain tests.
+
+### Deployment
+
+- Not needed.
 
 ## Authors
 
