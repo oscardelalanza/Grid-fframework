@@ -44,14 +44,6 @@ Add the different `css classes` to your `html elements` as you need it.
 - Copy and paste the `css` folder  and the `Open_Sans` folder with all his content into the `root` of your project.
 - Link the `framework.css` file to your `html files`.
 
-### Run tests
-
-- This project doesn't contain tests.
-
-### Deployment
-
-- Not needed.
-
 ## Authors
 
 👤 **Bruna Genz**
